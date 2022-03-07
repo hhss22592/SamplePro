@@ -13,6 +13,7 @@ public class GitTestMain {
 		
 
 		System.out.println("Master Branch2");
+		System.out.println("깃허브에서 수정");
 
 	
 	}
